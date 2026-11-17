@@ -1,0 +1,10 @@
+{
+  "urls": ["https://vector-front.github.io/vf-relays/relays.json"],
+  "relays": [
+    {
+      "address": "5.83.140.43",
+      "name": "Frankfurt am Main",
+      "region": "Europe"
+    }
+  ]
+}
